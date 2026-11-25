@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /dash-admin
+Disallow: /login
+Disallow: /rotate
+Disallow: /setup
+Disallow: /index-legacy.html
+
+Sitemap: https://eng-angluos-rezq.angluosr.workers.dev/sitemap.xml

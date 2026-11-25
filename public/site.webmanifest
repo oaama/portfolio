@@ -1,0 +1,11 @@
+{
+  "name": "Eng. Angluos Rezq | Software Engineer",
+  "short_name": "Angluos Rezq",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#4294FF",
+  "background_color": "#0a0a0f",
+  "display": "standalone"
+}

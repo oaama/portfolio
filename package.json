@@ -1,0 +1,12 @@
+{
+  "name": "angelo-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^6"
+  },
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "^4.166.0"
+  }
+}

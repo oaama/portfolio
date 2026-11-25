@@ -1,0 +1,223 @@
+{
+  "1795438651963": [
+    {
+      "image": "/project-gallery/backstage-show.webp",
+      "captionEn": "Show details & performance dates",
+      "caption": "تفاصيل العرض ومواعيد الليالي"
+    },
+    {
+      "image": "/project-gallery/backstage-booking.webp",
+      "captionEn": "Ticket booking form",
+      "caption": "نموذج حجز التذكرة"
+    },
+    {
+      "image": "/project-gallery/backstage-entry.webp",
+      "captionEn": "Ticket validation at the theatre gate",
+      "caption": "التحقق من التذكرة عند بوابة المسرح"
+    },
+    {
+      "image": "/project-gallery/backstage-shows.webp",
+      "captionEn": "Show & performance management",
+      "caption": "إدارة العروض وليالي المسرح"
+    }
+  ],
+  "1795438651964": [
+    {
+      "image": "/project-gallery/rayeq-services.webp",
+      "captionEn": "Service catalog & pricing controls",
+      "caption": "كتالوج الخدمات وإدارة الأسعار"
+    },
+    {
+      "image": "/project-gallery/rayeq-areas.webp",
+      "captionEn": "Service-area management",
+      "caption": "إدارة مناطق الخدمة"
+    }
+  ],
+  "3": [
+    {
+      "image": "/img-project/Snapshot - سدرة333 (0 00.00).png",
+      "captionEn": "Agency homepage",
+      "caption": "الصفحة الرئيسية للوكالة"
+    }
+  ],
+  "6": [
+    {
+      "image": "/project-gallery/mraya-home.webp",
+      "captionEn": "Arts centre homepage",
+      "caption": "الصفحة الرئيسية لمركز الفنون"
+    },
+    {
+      "image": "/project-gallery/mraya-services.webp",
+      "captionEn": "Creative services & venue offerings",
+      "caption": "الخدمات الإبداعية ومساحات المركز"
+    }
+  ],
+  "8": [
+    {
+      "image": "/project-gallery/zone-courses.webp",
+      "captionEn": "Course catalog & category filters",
+      "caption": "كتالوج الكورسات والتصفية حسب المجال"
+    },
+    {
+      "image": "/project-gallery/zone-course.webp",
+      "captionEn": "Course details & learning outcomes",
+      "caption": "تفاصيل الكورس وأهداف التعلم"
+    }
+  ],
+  "hexa-plus": [
+    {
+      "image": "/project-gallery/hexa-home.webp",
+      "captionEn": "Agency homepage",
+      "caption": "الصفحة الرئيسية للشركة"
+    },
+    {
+      "image": "/project-gallery/hexa-services.webp",
+      "captionEn": "Digital solutions & services",
+      "caption": "الحلول الرقمية والخدمات"
+    }
+  ],
+  "2": [
+    {
+      "image": "/img-project/screenshot-1776609555432.png",
+      "captionEn": "Barber profile & available services",
+      "caption": "ملف الحلاق والخدمات المتاحة"
+    },
+    {
+      "image": "/img-project/screenshot-1776609631490.png",
+      "captionEn": "Appointment date & time selection",
+      "caption": "اختيار يوم وموعد الحجز"
+    },
+    {
+      "image": "/img-project/screenshot-1776610495985.png",
+      "captionEn": "Account sign-in",
+      "caption": "تسجيل الدخول للحساب"
+    }
+  ],
+  "4": [
+    {
+      "image": "/img-project/صلحهالي.png",
+      "captionEn": "Home & service categories",
+      "caption": "الرئيسية وأقسام الخدمات"
+    },
+    {
+      "image": "/img-project/صلحهالي3.jpg",
+      "captionEn": "Customer & provider role selection",
+      "caption": "اختيار دور العميل أو مقدم الخدمة"
+    },
+    {
+      "image": "/img-project/صلحهالي.jpg",
+      "captionEn": "Location permission flow",
+      "caption": "خطوات السماح بالموقع"
+    },
+    {
+      "image": "/img-project/صلحهالي4.png",
+      "captionEn": "Account sign-in",
+      "caption": "تسجيل الدخول"
+    },
+    {
+      "image": "/img-project/صلحهالي5.png",
+      "captionEn": "Account registration",
+      "caption": "إنشاء حساب"
+    }
+  ],
+  "7": [
+    {
+      "image": "/img-project/متجر.jpg",
+      "captionEn": "Product catalog & category navigation",
+      "caption": "كتالوج المنتجات والتنقل بين الأقسام"
+    },
+    {
+      "image": "/img-project/متجر اللكتروني.jpg",
+      "captionEn": "Store administration & order list",
+      "caption": "إدارة المتجر وقائمة الطلبات"
+    },
+    {
+      "image": "/img-project/متجر (2).jpg",
+      "captionEn": "Product cards & store homepage",
+      "caption": "بطاقات المنتجات والصفحة الرئيسية"
+    }
+  ],
+  "5": [
+    {
+      "image": "/img-project/Snapshot - اشارتك (0 01.72).png",
+      "captionEn": "App launch screen",
+      "caption": "شاشة بداية التطبيق"
+    },
+    {
+      "image": "/img-project/Snapshot - اشارتك (0 02.88).png",
+      "captionEn": "Account sign-in",
+      "caption": "تسجيل الدخول"
+    },
+    {
+      "image": "/img-project/Snapshot - اشارتك (0 19.60).png",
+      "captionEn": "Welcome & voice assistance",
+      "caption": "الترحيب والمساعدة الصوتية"
+    },
+    {
+      "image": "/img-project/Snapshot - اشارتك (2 01.28).png",
+      "captionEn": "Voice interaction screen",
+      "caption": "شاشة التفاعل الصوتي"
+    }
+  ],
+  "1795438651965": [
+    {
+      "image": "/project-gallery/skillr-03.webp",
+      "captionEn": "Customer & specialist role selection",
+      "caption": "اختيار دور العميل أو المتخصص"
+    },
+    {
+      "image": "/project-gallery/skillr-16.webp",
+      "captionEn": "Popular services & categories",
+      "caption": "الخدمات الشائعة والأقسام"
+    },
+    {
+      "image": "/project-gallery/skillr-10.webp",
+      "captionEn": "Location permission flow",
+      "caption": "خطوات السماح بالموقع"
+    },
+    {
+      "image": "/project-gallery/skillr-15.webp",
+      "captionEn": "Phone verification screen",
+      "caption": "شاشة تأكيد رقم الهاتف"
+    }
+  ],
+  "1795438651961": [
+    {
+      "image": "/project-gallery/faroj-dashboard.webp",
+      "captionEn": "Dashboard & quick order · interface preview",
+      "caption": "لوحة التحكم والطلب السريع · معاينة الواجهة"
+    },
+    {
+      "image": "/project-gallery/faroj-ingredients.webp",
+      "captionEn": "Ingredients & stock alerts · interface preview",
+      "caption": "المكونات وتنبيهات المخزون · معاينة الواجهة"
+    },
+    {
+      "image": "/project-gallery/faroj-stock-movements.webp",
+      "captionEn": "Stock movement tracking · interface preview",
+      "caption": "تتبع حركات المخزون · معاينة الواجهة"
+    }
+  ],
+  "1795438651962": [
+    {
+      "image": "/project-gallery/matcha-recipes.webp",
+      "captionEn": "Recipe tracking & portion availability",
+      "caption": "متابعة الوصفات والحصص المتاحة"
+    },
+    {
+      "image": "/project-gallery/matcha-navigation.webp",
+      "captionEn": "Mobile dashboard navigation",
+      "caption": "أقسام لوحة التحكم على الموبايل"
+    },
+    {
+      "image": "/project-gallery/matcha-inventory.webp",
+      "captionEn": "Inventory & ingredient management",
+      "caption": "إدارة المخزون والخامات"
+    },
+    {
+      "image": "/project-gallery/matcha-menu.webp",
+      "captionEn": "Menu items & pricing controls",
+      "caption": "إدارة أصناف المنيو والأسعار"
+    }
+  ]
+}
